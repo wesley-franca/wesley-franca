@@ -2,15 +2,15 @@
 <h1 align="center">Hi 
 <img style= "width: 30px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 , I'm Wesley Santos de França</h1>
-<h3 align="center">An always curious person who tries his best</h3>
+<h3 align="center">An always curious person</h3>
 
-- 🌱 I’m currently learning **A lot of new things on Driven's full stack development bootcamp;**
+- 🌱 I’m currently learning **JavaScript** on Driven's full stack development bootcamp;
 
 - 🌱 My next step is learning **React**
 
 - 👀 I love books and coding
 
-- ⚡ Fun fact **one of my life goals is to be a polyglot and I'am currently learning the brazilian sign language**
+- ⚡ Fun fact **one of my life goals is to be a polyglot** and I'am currently learning the brazilian sign language
 
 - 📫 How to reach me **wesley20012001@gmail.com**
 
