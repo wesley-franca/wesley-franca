@@ -11,6 +11,8 @@
 
 - ❤️ I love books and coding
 
+- 🏳️‍🌈 Pronouns: He/His.
+
 - ⚡ Fun fact **one of my life goals is to be a polyglot** and I'am currently learning the brazilian sign language
 
 - 📫 How to reach me **wesley20012001@gmail.com**
