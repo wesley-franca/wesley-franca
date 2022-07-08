@@ -42,7 +42,7 @@ function WhoAmI(){
 }
   
 function getCity(){
-  return SaoPaulo_Brasil();
+  return "SaoPaulo_Brasil"
 }
 
 function Ambitions(){
