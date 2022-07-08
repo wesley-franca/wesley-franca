@@ -18,7 +18,8 @@
 
 <h3 align="left">📫 How to reach me :</h3>
 <p align="left">
-  <a href="wesleysantos20012001@gmail.com" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png"  height="40" width="40" align="center" ></a>
+  
+  <a href="mailto:wesleysantos20012001@gmail.com" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png"  height="40" width="35" align="center" ></a>
 <a href="https://www.linkedin.com/in/wesley-web-developer/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/wesley-santos-de-frança" height="30" width="40" /></a>
 <a href="https://instagram.com/thepaocomovo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thepaocomovo" height="30" width="40" /></a>
 </p>
