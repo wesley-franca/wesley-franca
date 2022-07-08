@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript** on Driven's full stack web development bootcamp;
 
-- 🌱 My next step is learning **React**
+- ❤️ My next step is learning **React**
 
 - 👀 I love books and coding
 
