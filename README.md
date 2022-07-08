@@ -4,34 +4,6 @@
 , I'm Wesley Santos de França</h1>
 <h3 align="center">An always curious person</h3>
 
-```
-
-let WhoAmI = {
-  user: "Wesley Santos de França"
-  currentEducation: [
-    "full stack web development bootcamp - Driven Education",
-    "Bachelor of Science and Technology - Federal University of ABC (UFABC, Brazil)"
-  ]
-  hobbies: [
-    "Watching Anime",
-    "Reading Fantasy and Sci-Fi Novels",
-    "learning languages",
-    "coding"
-  ]
-}
-  
-function getCity(){
-  return SaoPaulo_Brasil()
-}
-
-function Ambitions(){
-  beSoftwareEngineer();
-  helpAnimals();
-  bePolyglot();
-}
-
-```
-
 
 - 🌱 I’m currently learning **JavaScript** on Driven's full stack web development bootcamp;
 
@@ -51,6 +23,36 @@ function Ambitions(){
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+```ruby
+
+function WhoAmI(){
+  let userName = "Wesley Santos de França";
+  let currentEducation = [
+    "full stack web development bootcamp - Driven Education",
+    "Bachelor of Science and Technology - Federal University of ABC (UFABC, Brazil)"
+  ];
+  let hobbies = [
+    "Watching Anime",
+    "Reading Fantasy and Sci-Fi Novels",
+    "learning languages",
+    "coding"
+  ];
+  return "age: 21"
+}
+  
+function getCity(){
+  return SaoPaulo_Brasil();
+}
+
+function Ambitions(){
+  beSoftwareEngineer();
+  bePolyglot();
+  helpAnimals();
+  return "vegetarian"
+}
+
+```
 
 <p><img style= "width: 45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thepaocomovo&show_icons=true&locale=en&layout=compact" alt="thepaocomovo" /></p>
 
