@@ -4,7 +4,36 @@
 , I'm Wesley Santos de França</h1>
 <h3 align="center">An always curious person</h3>
 
-- 🌱 I’m currently learning **JavaScript** on Driven's full stack development bootcamp;
+```
+
+let WhoAmI = {
+  user: "Wesley Santos de França"
+  currentEducation: [
+    "full stack web development bootcamp - Driven Education",
+   	"Bachelor of Science and Technology - Federal University of ABC (UFABC, Brazil)"
+  ]
+  hobbies: [
+   	"Watching Anime",
+   	"Reading Fantasy and Sci-Fi Novels",
+   	"learning languages",
+    "coding"
+  ]
+}
+  
+function getCity(){
+  return SaoPaulo_Brasil()
+}
+
+function Ambitions(){
+  beSoftwareEngineer();
+  helpAnimals();
+  bePolyglot();
+}
+
+```
+
+
+- 🌱 I’m currently learning **JavaScript** on Driven's full stack web development bootcamp;
 
 - 🌱 My next step is learning **React**
 
