@@ -5,9 +5,9 @@
 <h3 align="center">An always curious person</h3>
 
 
-- 🌱 I’m currently learning **React** on Driven's full stack web development bootcamp;
+- 🌱 I’m currently learning **MongoDB** database management on Driven's full stack web development bootcamp;
 
-- 👀 My next step is learning how to create and manage API's;
+- 👀 My next step is learning how to manage SQL databases on postgreSQL;
 
 - ❤️ I love books and coding;
 
