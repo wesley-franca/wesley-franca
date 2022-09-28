@@ -39,21 +39,20 @@
 ```ruby
 
 function WhoAmI(){
-  let userName = "Wesley Santos de França";
-  let currentEducation = [
+  const userName = "Wesley Santos de França";
+  const currentEducation = [
     "full stack web development bootcamp - Driven Education",
     "Bachelor of Science and Technology - Federal University of ABC (UFABC, Brazil)"
   ];
-  let hobbies = [
-    "Watching Anime",
-    "Reading Fantasy and Sci-Fi Novels",
-    "learning languages",
-    "coding"
-  ];
-  return "age: 21"
+  const hobbies = {
+    Watch: "Animes",
+    Reading: "Fantasy and Sci-Fi Novels",
+    study: "languages"
+  };
+  return {age: 21}
 }
   
-function getCity(){
+function getLocation(){
   return "SaoPaulo_Brasil"
 }
 
