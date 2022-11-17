@@ -6,9 +6,8 @@
 
 
 - 🌱 I’m currently learning **TypeScript** on Driven's full stack web development bootcamp;
-<!--
-- 👀 My next step is learning ;
--->
+
+- 👀 My next step is learning Prisma ;
 
 - ❤️ I love books and coding;
 
