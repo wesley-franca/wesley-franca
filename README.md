@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **TypeScript** on Driven's full stack web development bootcamp;
 
-- 👀 My next step is learning Prisma ;
+- 👀 My next step is learning Docker;
 
 - ❤️ I love books and coding;
 
-- 🏳️‍🌈 Pronouns: He/His;
+- 🏳️‍🌈 Pronouns: He/Him;
 
-- ⚡ Fun fact **one of my life goals is to be a polyglot** and I'am currently learning the brazilian sign language;
+- ⚡ Fun fact **one of my life goals is to be polyglot** and I'am currently learning the brazilian sign language;
 
 
 <h3 align="left">📫 How to reach me :</h3>
@@ -41,37 +41,6 @@
   
 </p>
 
-<!--
-```ruby
-
-function WhoAmI(){
-  const userName = "Wesley Santos de França";
-  const currentEducation = [
-    "full stack web development bootcamp - Driven Education",
-    "Bachelor of Science and Technology - Federal University of ABC (UFABC, Brazil)"
-  ];
-  const hobbies = {
-    Watch: "Animes",
-    Reading: "Fantasy and Sci-Fi Novels",
-    study: "languages"
-  };
-  return {age: 21}
-}
-  
-function getLocation(){
-  return "SaoPaulo_Brasil"
-}
-
-function Ambitions(){
-  beSoftwareEngineer();
-  bePolyglot();
-  helpAnimals();
-  return "vegetarian"
-}
-
-```
-
--->
 
 <p><img style= "width: 45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thepaocomovo&show_icons=true&locale=en&layout=compact" alt="thepaocomovo" /></p>
 
