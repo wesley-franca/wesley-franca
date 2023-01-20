@@ -5,9 +5,9 @@
 <h3 align="center">An always curious person</h3>
 
 
-- 🌱 I’m currently studying and practing **agile methodologies** on Driven's full stack web development bootcamp;
+- 🌱 I’m currently studying and practing **Docker** on Driven's full stack web development bootcamp;
 
-- 👀 My next step is learning **Docker**;
+- 👀 My next step is learning **AWS**;
 
 - :left_speech_bubble: I speak: Portuguese and English;
 
