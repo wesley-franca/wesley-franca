@@ -5,7 +5,7 @@
 <h3 align="center">An always curious person</h3>
 
 
-- 🌱 I’m currently studying and practing **Docker** on Driven's full stack web development bootcamp;
+- 🌱 I’m currently studying **Docker** in Driven's full stack web development bootcamp;
 
 - 👀 My next step is learning **AWS**;
 
@@ -13,7 +13,7 @@
 
 - ❤️ I love books and coding;
 
-- 🏳️‍🌈 Pronouns: He/Him;
+- 🏳️‍🌈 Pronouns: He/His;
 
 - ⚡ Fun fact **one of my life goals is to be polyglot** and I'am currently learning the brazilian sign language;
 
