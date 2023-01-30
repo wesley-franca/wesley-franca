@@ -43,6 +43,6 @@
 </p>
 
 
-<p><img style= "width: 45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thepaocomovo&show_icons=true&locale=en&layout=compact" alt="thepaocomovo" /></p>
+<p><img style= "width: 45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesley-franca&show_icons=true&locale=en&layout=compact" alt="wesley-franca" /></p>
 
-<p>&nbsp;<img style= "width: 45%" align="center" src="https://github-readme-stats.vercel.app/api?username=thepaocomovo&show_icons=true&locale=en" alt="thepaocomovo" /></p>
+<p>&nbsp;<img style= "width: 45%" align="center" src="https://github-readme-stats.vercel.app/api?username=wesley-franca&show_icons=true&locale=en" alt="wesley-franca" /></p>
