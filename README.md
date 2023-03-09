@@ -8,7 +8,7 @@
 
 - ❤️ I’m currently studying at the Federal university of ABC (UFABC - Brazil);
 
-- 👀 Always learning something! This time: *Nest.js**;
+- 👀 Always learning something! This time: **Nest.js**;
 
 - :left_speech_bubble: I speak: Portuguese and English;
 
