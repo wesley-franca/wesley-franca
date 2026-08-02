@@ -54,6 +54,11 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesley-franca&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Top Languages" />
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=wesley-franca&show_icons=true&theme=dracula&locale=en" alt="GitHub Stats" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wesley-franca&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="45%" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wesley-franca&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="45%" />
+  </a>
 </p>
